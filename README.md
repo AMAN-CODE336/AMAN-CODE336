@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Aman
 
-### 🚀 Full Stack Developer | 🎨 UI/UX Designer  
+### 🚀 Full Stack Developer  
 🌏 Based in India | Passionate about building elegant, scalable, and high-performance web applications.
 
 ---
